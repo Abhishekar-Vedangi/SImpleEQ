@@ -1,11 +1,11 @@
-# 🎧 SimpleEQ – My Journey into Audio Plugin Development (JUCE + C++)
+#  SimpleEQ – My Journey into Audio Plugin Development (JUCE + C++) 🗣️🔊
   
 This is **SimpleEQ**, a small but meaningful project in my journey of learning **audio plugin development** using the [JUCE framework](https://juce.com/) and **C++**.  
 I’m still learning the ropes of DSP and plugin architecture, so this project serves as both a **hands-on experiment** and a **learning log**.
 
 ---
 
-## Why I Started This
+## Why I Started This 👀
 
 I’ve always been fascinated by how plugins shape sound — from EQs and compressors to synths.  
 I spend a lot of time producing music and experimenting with **VSTs** in **Reaper**, tweaking parameters and layering effects just to see how they change the tone.  
@@ -18,7 +18,7 @@ This project began as a small YouTube tutorial, but it’s turning into somethin
 
 ---
 
-##  What I’m Learning
+##  What I’m Learning 🤓☝️
 
 - How **JUCE’s AudioProcessor** and **AudioProcessorEditor** classes interact  
 - The concept of **parameter trees** with `AudioProcessorValueTreeState`  
@@ -28,7 +28,7 @@ This project began as a small YouTube tutorial, but it’s turning into somethin
 
 ---
 
-##  Features (so far)
+##  Features (so far) ✨
 
 -  3-band EQ (Low, Mid, High)  
 -  Real-time processing using JUCE’s DSP module  
@@ -39,7 +39,7 @@ This project began as a small YouTube tutorial, but it’s turning into somethin
 
 ---
 
-##  Tech Stack
+##  Tech Stack 🗿
 
 | Tool | Purpose |
 |------|----------|
