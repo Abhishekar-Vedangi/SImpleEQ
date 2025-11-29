@@ -64,7 +64,7 @@
   <FILTER uid="5" x="0.6225000000000001" y="0.4798387096774194" useARA="0">
     <PLUGIN name="SimpleEQ" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="D:\Audio Programming\SimpleEQ\Builds\VisualStudio2022\x64\Debug\VST3\SimpleEQ.vst3\Contents\x86_64-win\SimpleEQ.vst3"
-            uniqueId="f3acda1c" isInstrument="0" fileTime="199f33273ae" infoUpdateTime="199f34bf0c7"
+            uniqueId="f3acda1c" isInstrument="0" fileTime="199f38a6a80" infoUpdateTime="199f397c816"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e9541a76"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
